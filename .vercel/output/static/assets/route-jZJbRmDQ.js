@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-NZYk81nU.js";import{t}from"./portal-gate-BDraHTcm.js";import{o as n}from"./index-CZGD43JV.js";var r=e(),i=()=>(0,r.jsx)(t,{role:`officer`,children:(0,r.jsx)(n,{})});export{i as component};

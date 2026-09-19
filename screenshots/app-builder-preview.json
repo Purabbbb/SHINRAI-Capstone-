@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Shinrai",
+      "hasCanvas": false,
+      "bodyTextLen": 1022,
+      "bodyTextHash": "5c2b6796569d202657f0c22ba70a4cc58f73c42d901fabed41bc7b45d2d78949",
+      "bodyTextPrefix": "Shinrai Sign in CIVIC OS FOR CITIES Shinrai From Concern to Comp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Shinrai",
+      "hasCanvas": false,
+      "bodyTextLen": 1053,
+      "bodyTextHash": "910c6cf2725ae685a36ade6b55454c1356a9230275368dbb0eb1928bd614e20e",
+      "bodyTextPrefix": "Shinrai Sign in CIVIC OS FOR CITIES Shinrai From Concern to Comp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
